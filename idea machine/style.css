@@ -43,3 +43,12 @@ input {
 #tweet-area {
   text-align: center;
 }
+
+.add, .submit {
+  width: 100px;
+  background-color: #4285f4;
+  color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #eeeeee;
+}
+
